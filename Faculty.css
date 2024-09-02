@@ -1,0 +1,10 @@
+table{
+    width: 60%;
+    text-align:center ;
+    border-collapse: collapse;
+}
+th{
+    font-size: 20px;
+    padding: 5px;
+    background-color: brown;
+}

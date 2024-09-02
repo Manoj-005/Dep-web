@@ -1,0 +1,10 @@
+table{
+    width: 40%;
+    text-align:center ;
+    border-collapse: collapse;
+    font-size: large;
+}
+th{
+
+   background:violet;
+}

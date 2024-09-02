@@ -1,0 +1,11 @@
+th{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+table{
+    width: 25%;
+    text-align: center;
+    border-collapse: collapse;
+    background-color:yellow;
+}
